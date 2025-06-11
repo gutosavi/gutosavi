@@ -5,11 +5,11 @@
 
 ---
 
-Atualmente em transição de carreira para a área de dados, trago uma bagagem sólida em gestão de equipes, processos e estratégias operacionais. Minha vivência como diretor despertou em mim uma paixão por tomar decisões baseadas em evidências — e foi assim que mergulhei no universo da Análise de Dados.
+Sou Gustavo Savi, Analista de Dados em transição de carreira, atualmente atuando como diretor e gestor em uma empresa na área de trânsito. Minha experiência liderando processos administrativos, equipes e estratégias operacionais me despertou o interesse em usar dados como ferramenta para otimizar decisões e resultados — e foi assim que comecei minha jornada no mundo da Análise de Dados.
 
-No bootcamp intensivo da TripleTen, desenvolvi projetos práticos com **Python, SQL, Pandas, NumPy, Matplotlib**, e também me aprofundei em **ETL, storytelling com dados, modelagem de KPIs e construção de dashboards no Tableau**.
+Me formei no bootcamp intensivo da TripleTen, onde desenvolvi projetos práticos aplicando Python, SQL, Pandas, NumPy e Matplotlib para resolver problemas reais. Tenho experiência com dashboards no Tableau, ETL, data storytelling e análises orientadas a tomada de decisão baseada em dados.
 
-Atuo com foco em gerar **insights acionáveis** que ajudem empresas a resolver problemas reais, otimizar resultados e acelerar a tomada de decisão com confiança.
+Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analytics, onde possa aplicar minha experiência de liderança com uma visão analítica estratégica e seguir crescendo na área de dados.
 
 🔍 **Em busca de oportunidades como Analista de Dados Júnior ou Estagiário em Data Analytics**.
 
