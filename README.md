@@ -20,16 +20,22 @@ Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analyt
 ### Certificado do Bootcamp em Análise de Dados | TripleTen
 * **Habilidades Demonstradas:** Análise de dados, Python (Pandas, NumPy, Matplotlib), SQL, visualização de dados (Tableau), Machine Learning, testes A/B.
 
-![Certificado de Análise de Dados da TripleTen](certificados/Gustavo Savi_DA (1)_page-0001.jpg)
+![Certificado de Análise de Dados da TripleTen](certificados/certificado_tripleten.jpg)
 
 ---
 
 ### Conquistas
-* **Analista de Dados Aspirante:![(certificados/AnalistaDeDados_Aspirante.png)]** Depois de algumas semanas de estudo, desenvolvi habilidades típicas de um analista de dados.
-* **Certificação SQL:![(certificados/Certificacao_SQL.png)]** Habilidades desenvolvidas com banco de dados complexos usando SQL.
-* **Construção de dashboards:![(certificados/Construção_dashboard.png)]** Habilidades na criação de dashboards vinculados a banco de dados.
-* **Guru de decisçoes de negócios:![certificados/Guru_decisoes.png)]** Através dos testes de hipóteses(testes A/B), desenvolvi habilidades para tomada de decisões baseadas em dados.
-* **Narrando dados:![(certificados/Narrando_dados.png)]** Desenvolvimento de excelentes visualizações de dados, adquirindo habilidades em seaborn e plotly.
+
+* **Analista de Dados Aspirante:** ![Certificado de Analista de Dados Aspirante](certificados/AnalistaDeDados_Aspirante.png)
+  _Depois de algumas semanas de estudo, desenvolvi habilidades típicas de um analista de dados._
+* **Certificação SQL:** ![Certificado de SQL](certificados/Certificacao_SQL.png)
+  _Habilidades desenvolvidas com banco de dados complexos usando SQL._
+* **Construção de Dashboards:** ![Certificado de Construção de Dashboards](certificados/Construcao_dashboard.png)
+  _Habilidades na criação de dashboards vinculados a banco de dados._
+* **Guru de Decisões de Negócios:** ![Certificado de Guru de Decisões de Negócios](certificados/Guru_decisoes.png)
+  _Através dos testes de hipóteses (testes A/B), desenvolvi habilidades para tomada de decisões baseadas em dados._
+* **Narrando Dados:** ![Certificado de Narrando Dados](certificados/Narrando_dados.png)
+  _Desenvolvimento de excelentes visualizações de dados, adquirindo habilidades em seaborn e plotly._
 
 ---
   
