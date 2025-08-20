@@ -20,7 +20,7 @@ Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analyt
 ### Certificado do Bootcamp em Análise de Dados | TripleTen
 * **Habilidades Demonstradas:** Análise de dados, Python (Pandas, NumPy, Matplotlib), SQL, visualização de dados (Tableau), Machine Learning, testes A/B.
 
-![Certificado de Análise de Dados da TripleTen](certificados/certificado_tripleten.jpg)
+![Certificado de Análise de Dados da TripleTen](Gustavo Savi_DA (1)_page-0001.jpg)
 
 ---
 
