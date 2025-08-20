@@ -30,7 +30,7 @@ Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analyt
   _Depois de algumas semanas de estudo, desenvolvi habilidades típicas de um analista de dados._
 * **Coleção e Armazenamento de dados (SQL):** ![Certificado de SQL](certificados/Certificacao_SQL.png)
   _Habilidades desenvolvidas com banco de dados complexos usando SQL._
-* **Construção de Dashboards:** ![Certificado de Construção de Dashboards](certificados/Construcao_dashboard.png)
+* **Construção de Dashboards:** ![Certificado de Construção de Dashboards](certificados/Construção_dashboard.png)
   _Habilidades na criação de dashboards vinculados a banco de dados._
 * **Guru de Decisões de Negócios:** ![Certificado de Guru de Decisões de Negócios](certificados/Guru_decisoes.png)
   _Através dos testes de hipóteses (testes A/B), desenvolvi habilidades para tomada de decisões baseadas em dados._
