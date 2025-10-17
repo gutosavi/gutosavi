@@ -33,6 +33,10 @@ Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analyt
 
 * **Análise de Dados com Python:** ![Certificado Projetos de Análise de Dados com Python - Data Science Academy](certificados/Analise_de_Dados_com_Python.jpg)
   _Curso realizado na Data Science Academy._
+* **SQL para Análise de Dados:** ![Certificado SQL para Análise de Dados e Data Science - Data Science Academy](certificados/SQL_Análise_de_Dados.jpg)
+  _Curso realizado na Data Science Academy._
+* **Microsoft PowerBI:** ![Certificado Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy](certificados/Certificado_PowerBI.jpg)
+  _Curso realizado na Data Science Academy._
 * **Analista de Dados Aspirante:** ![Certificado de Analista de Dados Aspirante](certificados/AnalistaDeDados_Aspirante.png)
   _Depois de algumas semanas de estudo, desenvolvi habilidades típicas de um analista de dados._
 * **Coleção e Armazenamento de dados (SQL):** ![Certificado de SQL](certificados/Certificacao_SQL.png)
