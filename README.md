@@ -20,7 +20,7 @@ Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analyt
 
 ---
 
-## 🏆 Conquistas e Certificações
+## Conquistas e Certificações
 
 ### Certificado do Bootcamp em Análise de Dados | TripleTen
 * **Habilidades Demonstradas:** Análise de dados, Python (Pandas, NumPy, Matplotlib), SQL, visualização de dados (Tableau), Machine Learning, testes A/B.
@@ -50,22 +50,53 @@ Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analyt
 
 ---
   
-## 🧰 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
+### **Análise de Dados & Visualização**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
-## 📊 Meus Projetos
+### **Inteligência Artificial, Automação & Agentes**
+![LLMs](https://img.shields.io/badge/LLMs-0A66C2?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=openai&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-A020F0?style=flat&logo=agent&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make%20(Integromat)-4B32C3?style=flat&logo=make&logoColor=white)
 
-🗂️ Aqui no meu perfil você encontra projetos desenvolvidos no bootcamp e outros pessoais, com foco em:
+---
+
+### **Ambiente, Cloud & Versionamento**
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+---
+
+**Atualmente explorando:**  
+LLMs, Agentes de IA, Automação de fluxos de dados e integração entre Data Analytics e Inteligência Artificial.
+
+
+## Meus Projetos
+
+Aqui no meu perfil você encontra projetos desenvolvidos no bootcamp e outros pessoais, com foco em:
 
 - Análise exploratória e visualização de dados
 - Estudo de comportamento do usuário e rotatividade de clientes
@@ -73,11 +104,11 @@ Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analyt
 - Dashboards e storytelling com dados
 - Alguns apps streamlit, dentre eles um utilizando OpenAI
 
-👉 Dê uma olhada nos meus repositórios para saber mais sobre cada um deles!
+Dê uma olhada nos meus repositórios para saber mais sobre cada um deles!
 
 ---
 
-## 📬 Como me encontrar
+## Como me encontrar
 
 - ✉️ E-mail: [gutosavi@hotmail.com](mailto:gutosavi@hotmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-savi)  
@@ -86,7 +117,7 @@ Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analyt
 
 ---
 
-## 😄 Fun Facts
+## Fun Facts
 
 - Sempre aprendendo algo novo sobre dados!
 - Desenvolvendo um grande interesse no mundo da IA!
