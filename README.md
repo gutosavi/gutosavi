@@ -1,17 +1,22 @@
-# 👋 Olá! Eu sou o Gustavo Savi
+# Olá! Eu sou o Gustavo Savi
 
-🎯 **Data Analyst in Career Transition**  
-🚗 Diretor e gestor em uma empresa de educação de trânsito | 🎓 Formado em Análise de Dados pelo bootcamp da TripleTen
+**Junior Data Analyst | Former Engineer AI**  
+Diretor e gestor em uma empresa de educação de trânsito | 🎓 Formado em Análise de Dados pelo bootcamp da TripleTen e Data Science Academy
 
 ---
 
-Sou Gustavo Savi, Analista de Dados Júnior, atualmente atuando como diretor e gestor em uma empresa na área de trânsito. Minha experiência liderando processos administrativos, equipes e estratégias operacionais me despertou o interesse em usar dados como ferramenta para otimizar decisões e resultados — e foi assim que comecei minha jornada no mundo da Análise de Dados.
+Sou Gustavo Savi, Analista de Dados Júnior, atualmente atuando como diretor e gestor em uma empresa da área de trânsito.
+Minha experiência liderando equipes, processos e estratégias operacionais despertou meu interesse em usar dados e automação inteligente para otimizar decisões e resultados — e foi assim que começou minha jornada no mundo da Análise de Dados e Inteligência Artificial.
 
-Me formei no bootcamp intensivo da TripleTen, onde desenvolvi projetos práticos aplicando Python, SQL, Pandas, NumPy e Matplotlib para resolver problemas reais. Tenho experiência com dashboards no Tableau, ETL, data storytelling e análises orientadas a tomada de decisão baseada em dados.
+Durante o bootcamp intensivo da TripleTen, desenvolvi projetos práticos aplicando Python, SQL, Pandas, NumPy e Matplotlib para resolver problemas reais.
+Tenho experiência com dashboards no PowerBI, Tableau, ETL, data storytelling e análises orientadas à tomada de decisão.
 
-Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analytics, onde possa aplicar minha experiência de liderança com uma visão analítica estratégica e seguir crescendo na área de dados.
+Atualmente, venho expandindo meus estudos para o campo da IA aplicada à Análise de Dados, explorando temas como:
+- LLMs (Modelos de Linguagem de Grande Escala)
+- Automação e Agentes de IA (Agno, LangChain, LangGraph)
+- Integração entre análise de dados e soluções baseadas em IA
 
-🔍 **Em busca de oportunidades como Analista de Dados Júnior ou Estagiário em Data Analytics**.
+Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analytics, onde possa combinar minha visão estratégica de gestão com a aplicação prática de dados e automação inteligente.
 
 ---
 
@@ -60,6 +65,7 @@ Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analyt
 - Estudo de comportamento do usuário e rotatividade de clientes
 - Testes A/B com análise estatística
 - Dashboards e storytelling com dados
+- Alguns apps streamlit, dentre eles um utilizando OpenAI
 
 👉 Dê uma olhada nos meus repositórios para saber mais sobre cada um deles!
 
@@ -76,8 +82,9 @@ Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analyt
 
 ## 😄 Fun Facts
 
-- 🧠 Sempre aprendendo algo novo sobre dados!
-- ☕ Sobrevivente oficial à base de café.
+- Sempre aprendendo algo novo sobre dados!
+- Desenvolvendo um grande interesse no mundo da IA!
+- Sobrevivente oficial à base de café.
 - 🚴‍♂️ Às vezes, troco os dados pela bike. (Strava vibes 😎)
 
 ---
