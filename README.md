@@ -31,6 +31,8 @@ Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analyt
 
 ### Conquistas
 
+* **SQL para Análise de Dados:** ![Certificado SQL para Analista de Dados - Data Science Academy](certificados/SQL_Análise_de_Dados.pdf)
+  _Curso de SQL realizado junto à Data Science Academy._
 * **Analista de Dados Aspirante:** ![Certificado de Analista de Dados Aspirante](certificados/AnalistaDeDados_Aspirante.png)
   _Depois de algumas semanas de estudo, desenvolvi habilidades típicas de um analista de dados._
 * **Coleção e Armazenamento de dados (SQL):** ![Certificado de SQL](certificados/Certificacao_SQL.png)
