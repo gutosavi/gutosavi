@@ -6,7 +6,7 @@ Diretor e gestor em uma empresa de educação de trânsito | 🎓 Formado em An�
 ---
 
 Sou Gustavo Savi, Analista de Dados Júnior, atualmente atuando como diretor e gestor em uma empresa da área de trânsito.
-Minha experiência liderando equipes, processos e estratégias operacionais despertou meu interesse em usar dados e automação inteligente para otimizar decisões e resultados — e foi assim que começou minha jornada no mundo da Análise de Dados e Inteligência Artificial.
+Minha experiência liderando equipes, processos e estratégias operacionais despertou meu interesse em usar dados e automação inteligente para otimizar decisões e resultados, e foi assim que começou minha jornada no mundo da Análise de Dados e Inteligência Artificial.
 
 Durante o bootcamp intensivo da TripleTen, desenvolvi projetos práticos aplicando Python, SQL, Pandas, NumPy e Matplotlib para resolver problemas reais.
 Tenho experiência com dashboards no PowerBI, Tableau, ETL, data storytelling e análises orientadas à tomada de decisão.
