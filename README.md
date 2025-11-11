@@ -90,10 +90,6 @@ Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analyt
 
 ---
 
-**Atualmente explorando:**  
-LLMs, Agentes de IA, Automação de fluxos de dados e integração entre Data Analytics e Inteligência Artificial.
-
-
 ## Meus Projetos
 
 Aqui no meu perfil você encontra projetos desenvolvidos no bootcamp e outros pessoais, com foco em:
