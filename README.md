@@ -11,10 +11,7 @@ Minha experiência liderando equipes, processos e estratégias operacionais desp
 Durante o bootcamp intensivo da TripleTen, desenvolvi projetos práticos aplicando Python, SQL, Pandas, NumPy e Matplotlib para resolver problemas reais.
 Tenho experiência com dashboards no PowerBI, Tableau, ETL, data storytelling e análises orientadas à tomada de decisão.
 
-Atualmente, venho expandindo meus estudos para o campo da IA aplicada à Análise de Dados, explorando temas como:
-- LLMs (Modelos de Linguagem de Grande Escala)
-- Automação e Agentes de IA (Agno, LangChain, LangGraph)
-- Integração entre análise de dados e soluções baseadas em IA
+Em constante evolução profissional, estou atualmente explorando novas áreas de conhecimento com HTML, CSS e Java. Esta iniciativa é um investimento para o futuro, visando diversificar minhas competências além da Data Science e abrir portas para o desenvolvimento de soluções.
 
 Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analytics, onde possa combinar minha visão estratégica de gestão com a aplicação prática de dados e automação inteligente.
 
@@ -65,15 +62,16 @@ Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analyt
 ---
 
 ### **Inteligência Artificial, Automação & Agentes (Expandindo conhecimento nessas áreas):**
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-0A66C2?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=openai&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-A020F0?style=flat&logo=agent&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/Make%20(Integromat)-4B32C3?style=flat&logo=make&logoColor=white)
+
 
 ---
 
@@ -87,6 +85,8 @@ Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analyt
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublime-text&logoColor=white)
+
 
 ---
 
