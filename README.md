@@ -64,7 +64,7 @@ Busco oportunidades como Analista de Dados Júnior ou Estagiário em Data Analyt
 
 ---
 
-### **Inteligência Artificial, Automação & Agentes**
+### **Inteligência Artificial, Automação & Agentes (Expandindo conhecimento nessas áreas):**
 ![LLMs](https://img.shields.io/badge/LLMs-0A66C2?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=openai&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-A020F0?style=flat&logo=agent&logoColor=white)
