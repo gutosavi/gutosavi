@@ -1,7 +1,7 @@
 # Olá! Eu sou o Gustavo Savi
 
-**Junior Data Analyst | Former Engineer AI**  
-Diretor e gestor em uma empresa de educação de trânsito | 🎓 Formado em Análise de Dados pelo bootcamp da TripleTen e Data Science Academy
+**Junior Data Analyst | Junior Python Developer**  
+Diretor e gestor em uma empresa de educação de trânsito | Formado em Análise de Dados pelo bootcamp da TripleTen e Data Science Academy
 
 ---
 
