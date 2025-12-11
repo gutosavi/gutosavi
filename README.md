@@ -10,7 +10,7 @@ Agora, canalizo essa bagagem analítica e de resolução de problemas para criar
 
 ---
 
-# O que estou estudando atualmente:
+## O que estou estudando atualmente:
 
 -> Desenvolvimento Web: HTML, CSS, JavaScript
 
@@ -26,13 +26,13 @@ Agora, canalizo essa bagagem analítica e de resolução de problemas para criar
 
 ---
 
-# Objetivo profissional
+## Objetivo profissional
 
 Busco oportunidades como Desenvolvedor Júnior ou Estagiário (front-end, back-end ou full-stack), onde eu possa evoluir tecnicamente, contribuir com projetos reais e aplicar minha experiência prévia em análise, gestão e tomada de decisão.
 
 ---
 
-# Trago comigo:
+## Trago comigo:
 
 -> Mentalidade analítica e foco em solução
 
