@@ -16,8 +16,6 @@ Agora, canalizo essa bagagem analítica e de resolução de problemas para criar
 
 -> Fundamentos de programação e algoritmos
 
--> Java e orientação a objetos
-
 -> Versionamento com Git/GitHub
 
 -> Back-end com Python (FastAPI/Flask)
