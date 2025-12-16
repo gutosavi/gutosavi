@@ -59,8 +59,7 @@ Busco oportunidades como Desenvolvedor Júnior ou Estagiário (front-end, back-e
   _Curso realizado na Data Science Academy._
 * **SQL para Análise de Dados:** ![Certificado SQL para Análise de Dados e Data Science - Data Science Academy](certificados/SQL_Análise_de_Dados.jpg)
   _Curso realizado na Data Science Academy._
-* **Microsoft PowerBI:** ![Certificado Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy](certificados/Certificado_PowerBI.jpg)
-  _Curso realizado na Data Science Academy._
+
 
 ---
   
