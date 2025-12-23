@@ -2,7 +2,7 @@
 
 Desenvolvedor Web em Formação | Estudante de Análise e Desenvolvimento de Sistemas
 
-Atualmente estou em transição para a área de Desenvolvimento de Software, focando no tripé fundamental do front-end — HTML, CSS e JavaScript, enquanto aprofundo minha base de lógica de programação, engenharia de software e estruturas de dados através da graduação em Análise e Desenvolvimento de Sistemas.
+Atualmente estou em transição para a área de Desenvolvimento de Software, focando no tripé fundamental do front-end: HTML, CSS e JavaScript. Enquanto aprofundo minha base de lógica de programação, engenharia de software e estruturas de dados através da graduação em Análise e Desenvolvimento de Sistemas.
 
 Minha trajetória profissional começou no setor de educação de trânsito, onde atuei como diretor e gestor, liderando equipes e processos. Foi nesse contexto que a tecnologia deixou de ser suporte e passou a ser protagonista, despertando meu interesse pela programação.
 
