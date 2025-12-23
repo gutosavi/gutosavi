@@ -26,7 +26,7 @@ Atualmente, concentro meus estudos e projetos no desenvolvimento de aplicações
 
 ## Objetivo profissional
 
-Busco oportunidades como Desenvolvedor Júnior ou Estagiário (front-end, back-end ou full-stack), onde eu possa evoluir tecnicamente, contribuir com projetos reais e aplicar minha experiência prévia em análise, gestão e tomada de decisão.
+Busco oportunidades como Desenvolvedor Júnior ou Estagiário (front-end, back-end ou full stack), onde eu possa evoluir tecnicamente, contribuir com projetos reais e aplicar minha experiência prévia em resolução de problemas, gestão e trabalho em equipe.
 
 ---
 
