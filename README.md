@@ -4,9 +4,9 @@ Desenvolvedor Web em Formação | Estudante de Análise e Desenvolvimento de Sis
 
 Atualmente estou em transição para a área de Desenvolvimento de Software, focando no tripé fundamental do front-end — HTML, CSS e JavaScript, enquanto aprofundo minha base de lógica de programação, engenharia de software e estruturas de dados através da graduação em Análise e Desenvolvimento de Sistemas.
 
-Minha trajetória profissional começou no setor de educação de trânsito, onde atuei como diretor e gestor, liderando equipes e processos estratégicos. Essa experiência despertou em mim uma paixão por tecnologia e automação, inicialmente aplicada na área de Data Analytics, onde trabalhei com Python, SQL, Pandas, ETL e construção de dashboards.
+Minha trajetória profissional começou no setor de educação de trânsito, onde atuei como diretor e gestor, liderando equipes e processos. Foi nesse contexto que a tecnologia deixou de ser suporte e passou a ser protagonista, despertando meu interesse pela programação.
 
-Agora, canalizo essa bagagem analítica e de resolução de problemas para criar aplicações, interfaces e soluções que geram impacto real.
+Atualmente, concentro meus estudos e projetos no desenvolvimento de aplicações e interfaces web, aplicando lógica, boas práticas e pensamento estruturado para construir soluções como desenvolvedor.
 
 ---
 
@@ -46,20 +46,33 @@ Busco oportunidades como Desenvolvedor Júnior ou Estagiário (front-end, back-e
 
 ## Conquistas e Certificações
 
-### Certificado do Bootcamp em Análise de Dados | TripleTen
-* **Habilidades Demonstradas:** Análise de dados, Python (Pandas, NumPy, Matplotlib), SQL, visualização de dados (Tableau), Machine Learning, testes A/B.
+### **Curso de HTML5 & CSS3** - Curso em Vídeo
+  - Fundamentos sólidos de semântica
+  - Responsividade e layout
+  - +120h de estudos e prática
+  - Projeto final publicado no GitHub Pages.
 
-![Certificado de Análise de Dados da TripleTen](certificados/certificado_DA.jpg)
+### **JavaScript e TypeScript (Full Stack)** — Udemy  
+  - Em andamento  
+  - JavaScript moderno (ES6+), lógica de programação e DOM  
+  - Node.js, Express, NoSQL, React, Hooks, Redux e Design Patterns
+
+### **Bootcamp em Análise de Dados** - TripleTen
+  - Análise de dados
+  - Python (Pandas, NumPy, Matplotlib)
+  - SQL
+  - Visualização de dados (Tableau)
+  - Machine Learning
+  - testes A/B.
 
 ---
 
 ### Conquistas
 
-* **Análise de Dados com Python:** ![Certificado Projetos de Análise de Dados com Python - Data Science Academy](certificados/Analise_de_Dados_com_Python.jpg)
+* **Análise de Dados com Python:** 
   _Curso realizado na Data Science Academy._
-* **SQL para Análise de Dados:** ![Certificado SQL para Análise de Dados e Data Science - Data Science Academy](certificados/SQL_Análise_de_Dados.jpg)
+* **SQL para Análise de Dados:** 
   _Curso realizado na Data Science Academy._
-
 
 ---
   
@@ -97,13 +110,13 @@ Busco oportunidades como Desenvolvedor Júnior ou Estagiário (front-end, back-e
 
 ## Meus Projetos
 
-Aqui no meu perfil você encontra projetos desenvolvidos no bootcamp e outros pessoais, com foco em:
+Aqui no meu perfil você encontra projetos desenvolvidos, agora com foco em HTML+CSS+JavaScript:
 
+- Projeto Final (Curso em Vídeo - HTML+CSS)
 - Projeto Redes-Sociais (base HTML+CSS)
-- Análise exploratória e visualização de dados
-- Estudo de comportamento do usuário e rotatividade de clientes
-- Testes A/B com análise estatística
-- Dashboards e storytelling com dados
+- Projeto Tela Login (HTML+CSS+JS)
+- Testes A/B com análise estatística (projeto feito enquanto estava estudando DA)
+- Dashboards e storytelling com dados (projeto feito enquanto estava estudando DA)
 
 Dê uma olhada nos meus repositórios para saber mais sobre cada um deles!
 
@@ -120,10 +133,11 @@ Dê uma olhada nos meus repositórios para saber mais sobre cada um deles!
 
 ## Fun Facts
 
-- Sempre aprendendo algo novo sobre dados!
-- Desenvolvendo um grande interesse no mundo da IA!
-- Sobrevivente oficial à base de café.
-- 🚴‍♂️ Às vezes, troco os dados pela bike. (Strava vibes 😎)
+- Em constante evolução como desenvolvedor.
+- JavaScript no centro dos estudos.
+- Curioso por front-end, back-end e tudo que envolve web.
+- ☕ Movido a café.
+- 🚴‍♂️ Às vezes, troco o código pela bike. (Strava vibes 😎)
 
 ---
 
