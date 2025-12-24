@@ -112,11 +112,11 @@ Busco oportunidades como Desenvolvedor Júnior ou Estagiário (front-end, back-e
 
 Aqui no meu perfil você encontra projetos desenvolvidos, agora com foco em HTML+CSS+JavaScript:
 
-- Projeto Final (Curso em Vídeo - HTML+CSS)
-- Projeto Redes-Sociais (base HTML+CSS)
-- Projeto Tela Login (HTML+CSS+JS)
-- Testes A/B com análise estatística (projeto feito enquanto estava estudando DA)
-- Dashboards e storytelling com dados (projeto feito enquanto estava estudando DA)
+- Projeto Final (Curso em Vídeo - HTML+CSS);
+- Projeto Redes-Sociais (base HTML+CSS);
+- Projeto Tela Login (HTML+CSS+JS);
+- Testes A/B com análise estatística (projeto feito enquanto estava estudando DA);
+- Dashboards e storytelling com dados (projeto feito enquanto estava estudando DA);
 
 Dê uma olhada nos meus repositórios para saber mais sobre cada um deles!
 
