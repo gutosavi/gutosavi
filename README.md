@@ -51,8 +51,15 @@ Busco oportunidades como Desenvolvedor Júnior ou Estagiário (front-end, back-e
   - Responsividade e layout
   - +120h de estudos e prática
   - Projeto final publicado no GitHub Pages.
+    
+### **Curso de JavaScript** - Curso em Vídeo
+  - Fundamentos da linguagem JavaScript
+  - Lógica de programação e resolução de problemas
+  - Manipulação básica do DOM
+  - Estruturas condicionais e laços de repetição
+  - 40h de aprendizado e prática
 
-### **JavaScript e TypeScript (Full Stack)** — Udemy  
+### **JavaScript e TypeScript (Full Stack)** — Udemy
   - Em andamento  
   - JavaScript moderno (ES6+), lógica de programação e DOM  
   - Node.js, Express, NoSQL, React, Hooks, Redux e Design Patterns
