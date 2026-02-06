@@ -18,8 +18,6 @@ Atualmente, concentro meus estudos e projetos no desenvolvimento de aplicações
 
 -> Versionamento com Git/GitHub
 
--> Back-end com Python (FastAPI/Flask)
-
 -> Boas práticas de arquitetura e organização de código
 
 ---
@@ -60,7 +58,7 @@ Busco oportunidades como Desenvolvedor Júnior ou Estagiário (front-end, back-e
   - 40h de aprendizado e prática
 
 ### **JavaScript e TypeScript (Full Stack)** — Udemy
-  - Em andamento  
+  - **Em andamento**  
   - JavaScript moderno (ES6+), lógica de programação e DOM  
   - Node.js, Express, NoSQL, React, Hooks, Redux e Design Patterns
 
@@ -74,7 +72,7 @@ Busco oportunidades como Desenvolvedor Júnior ou Estagiário (front-end, back-e
 
 ---
 
-### Conquistas
+### Outras conquistas relevantes
 
 * **Análise de Dados com Python:** 
   _Curso realizado na Data Science Academy._
@@ -119,11 +117,11 @@ Busco oportunidades como Desenvolvedor Júnior ou Estagiário (front-end, back-e
 
 Aqui no meu perfil você encontra projetos desenvolvidos, agora com foco em HTML+CSS+JavaScript:
 
+- Validação de formulários (aplicando conceitos de POO, eventos e validações customizadas);
+- Projeto To Do List (com foco em JavaScript);
+- Projeto Relógio Digital(HTML+CSS+JavaScript);
 - Projeto Final (Curso em Vídeo - HTML+CSS);
 - Projeto Redes-Sociais (base HTML+CSS);
-- Projeto Tela Login (HTML+CSS+JS);
-- Testes A/B com análise estatística (projeto feito enquanto estava estudando DA);
-- Dashboards e storytelling com dados (projeto feito enquanto estava estudando DA);
 
 Dê uma olhada nos meus repositórios para saber mais sobre cada um deles!
 
