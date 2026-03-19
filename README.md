@@ -1,46 +1,27 @@
 # Olá! Eu sou o Gustavo Savi
 
-Desenvolvedor Web em Formação | Estudante de Análise e Desenvolvimento de Sistemas
+Desenvolvedor Frontend focado em construção de aplicações web modernas, com base sólida em HTML, CSS e JavaScript.
 
-Atualmente estou em transição para a área de Desenvolvimento de Software, focando no tripé fundamental do front-end: HTML, CSS e JavaScript. Enquanto aprofundo minha base de lógica de programação, engenharia de software e estruturas de dados através da graduação em Análise e Desenvolvimento de Sistemas.
+Atualmente curso Análise e Desenvolvimento de Sistemas, aprofundando fundamentos de engenharia de software, estruturas de dados e arquitetura de aplicações.
 
-Minha trajetória profissional começou no setor de educação de trânsito, onde atuei como diretor e gestor, liderando equipes e processos. Foi nesse contexto que a tecnologia deixou de ser suporte e passou a ser protagonista, despertando meu interesse pela programação.
+Minha trajetória profissional começou na gestão educacional, onde liderei equipes e processos. Essa experiência fortaleceu minha capacidade analítica, organização e visão estratégica — habilidades que hoje aplico no desenvolvimento de software.
 
-Atualmente, concentro meus estudos e projetos no desenvolvimento de aplicações e interfaces web, aplicando lógica, boas práticas e pensamento estruturado para construir soluções como desenvolvedor.
+Hoje concentro meus projetos em:
 
----
+- Desenvolvimento de interfaces web responsivas
+- Manipulação de estado e lógica de aplicação
+- Consumo de APIs e programação assíncrona
+- Código organizado e escalável
 
-## O que estou estudando atualmente:
+Construindo diariamente a base para atuar como Desenvolvedor Frontend.
 
--> Desenvolvimento Web: HTML, CSS, JavaScript
+## Atualmente focado em
 
--> Fundamentos de programação e algoritmos
-
--> Versionamento com Git/GitHub
-
--> Boas práticas de arquitetura e organização de código
-
----
-
-## Objetivo profissional
-
-Busco oportunidades como Desenvolvedor Júnior ou Estagiário (front-end, back-end ou full stack), onde eu possa evoluir tecnicamente, contribuir com projetos reais e aplicar minha experiência prévia em resolução de problemas, gestão e trabalho em equipe.
-
----
-
-## Trago comigo:
-
--> Mentalidade analítica e foco em solução
-
--> Capacidade de aprender rápido
-
--> Experiência com Python e lógica
-
--> Organização, liderança e visão de produto
-
--> Vontade diária de construir e evoluir como desenvolvedor
-
----
+- Desenvolvimento Frontend com JavaScript moderno
+- React e TypeScript
+- Fundamentos de algoritmos e estruturas de dados
+- Versionamento com Git e GitHub
+- Boas práticas de organização e arquitetura de código
 
 ## Conquistas e Certificações
 
@@ -83,22 +64,23 @@ Busco oportunidades como Desenvolvedor Júnior ou Estagiário (front-end, back-e
   
 ## Tecnologias e Ferramentas
 
-### **Linguagens Base da Web**
+### **Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 
 ---
 
-### **Backend, Dados e React**
+### **Backend, Dados **
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
 
 ---
 
@@ -107,9 +89,10 @@ Busco oportunidades como Desenvolvedor Júnior ou Estagiário (front-end, back-e
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublime-text&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 
 ---
 
@@ -117,11 +100,12 @@ Busco oportunidades como Desenvolvedor Júnior ou Estagiário (front-end, back-e
 
 Aqui no meu perfil você encontra projetos desenvolvidos, agora com foco em HTML+CSS+JavaScript:
 
+- Projeto CRUD Tarefas (com consumo de API);
+- Projeto Busca CEP (com consumo de API);
 - Validação de formulários (aplicando conceitos de POO, eventos e validações customizadas);
 - Projeto To Do List (com foco em JavaScript);
 - Projeto Relógio Digital(HTML+CSS+JavaScript);
 - Projeto Final (Curso em Vídeo - HTML+CSS);
-- Projeto Redes-Sociais (base HTML+CSS);
 
 Dê uma olhada nos meus repositórios para saber mais sobre cada um deles!
 
@@ -148,4 +132,3 @@ Dê uma olhada nos meus repositórios para saber mais sobre cada um deles!
 
 Se algum projeto te interessar, deixa uma ⭐ por lá — isso me ajuda a crescer e evoluir!  
 Obrigado por visitar meu perfil!
-
