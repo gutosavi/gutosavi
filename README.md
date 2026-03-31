@@ -100,10 +100,10 @@ Construindo diariamente a base para atuar como Desenvolvedor Frontend.
 
 Aqui no meu perfil você encontra projetos desenvolvidos, agora com foco em HTML+CSS+JavaScript:
 
+- Projeto To Do List - React (com todas as funcionalidades de um CRUD);
 - Projeto CRUD Tarefas (com consumo de API);
 - Projeto Busca CEP (com consumo de API);
 - Validação de formulários (aplicando conceitos de POO, eventos e validações customizadas);
-- Projeto To Do List (com foco em JavaScript);
 - Projeto Relógio Digital(HTML+CSS+JavaScript);
 - Projeto Final (Curso em Vídeo - HTML+CSS);
 
