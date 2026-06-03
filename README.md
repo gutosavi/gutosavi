@@ -1,4 +1,4 @@
-# Hi, I'm Gustavo Savi 👋
+# Hi, I'm Gustavo Savi
 
 Frontend Developer focused on building modern, responsive, and intuitive web applications — with a solid foundation in HTML, CSS, JavaScript, React, and TypeScript.
 
@@ -100,15 +100,3 @@ To-do list with full CRUD functionality built in React.
 ---
 
 ⭐ If any project catches your eye, feel free to leave a star — it really helps!
-## Fun Facts
-
-- Em constante evolução como desenvolvedor.
-- JavaScript no centro dos estudos.
-- Curioso por front-end, back-end e tudo que envolve web.
-- ☕ Movido a café.
-- 🚴‍♂️ Às vezes, troco o código pela bike. (Strava vibes 😎)
-
----
-
-Se algum projeto te interessar, deixa uma ⭐ por lá — isso me ajuda a crescer e evoluir!  
-Obrigado por visitar meu perfil!
