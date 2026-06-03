@@ -1,125 +1,105 @@
-# Olá! Eu sou o Gustavo Savi
+# Hi, I'm Gustavo Savi 👋
 
-Desenvolvedor Frontend focado em construção de aplicações web modernas, com base sólida em HTML, CSS e JavaScript.
+Frontend Developer focused on building modern, responsive, and intuitive web applications — with a solid foundation in HTML, CSS, JavaScript, React, and TypeScript.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas, aprofundando fundamentos de engenharia de software, estruturas de dados e arquitetura de aplicações.
+Currently studying Systems Analysis and Development, deepening my knowledge in software engineering, data structures, and application architecture.
 
-Minha trajetória profissional começou na gestão educacional, onde liderei equipes e processos. Essa experiência fortaleceu minha capacidade analítica, organização e visão estratégica — habilidades que hoje aplico no desenvolvimento de software.
-
-Hoje concentro meus projetos em:
-
-- Desenvolvimento de interfaces web responsivas
-- Manipulação de estado e lógica de aplicação
-- Consumo de APIs e programação assíncrona
-- Código organizado e escalável
-
-Construindo diariamente a base para atuar como Desenvolvedor Frontend.
-
-## Atualmente focado em
-
-- Desenvolvimento Frontend com JavaScript moderno
-- React e TypeScript
-- Fundamentos de algoritmos e estruturas de dados
-- Versionamento com Git e GitHub
-- Boas práticas de organização e arquitetura de código
-
-## Conquistas e Certificações
-
-### **Curso de HTML5 & CSS3** - Curso em Vídeo
-  - Fundamentos sólidos de semântica
-  - Responsividade e layout
-  - +120h de estudos e prática
-  - Projeto final publicado no GitHub Pages.
-    
-### **Curso de JavaScript** - Curso em Vídeo
-  - Fundamentos da linguagem JavaScript
-  - Lógica de programação e resolução de problemas
-  - Manipulação básica do DOM
-  - Estruturas condicionais e laços de repetição
-  - 40h de aprendizado e prática
-
-### **JavaScript e TypeScript (Full Stack)** — Udemy
-  - **Em andamento**  
-  - JavaScript moderno (ES6+), lógica de programação e DOM  
-  - Node.js, Express, NoSQL, React, Hooks, Redux e Design Patterns
-
-### **Bootcamp em Análise de Dados** - TripleTen
-  - Análise de dados
-  - Python (Pandas, NumPy, Matplotlib)
-  - SQL
-  - Visualização de dados (Tableau)
-  - Machine Learning
-  - testes A/B.
+My professional background started in educational management, where I led teams and processes. That experience shaped my analytical thinking, organization, and strategic vision — skills I now bring into software development.
 
 ---
 
-### Outras conquistas relevantes
+## 🚀 Currently focused on
 
-* **Análise de Dados com Python:** 
-  _Curso realizado na Data Science Academy._
-* **SQL para Análise de Dados:** 
-  _Curso realizado na Data Science Academy._
+- Frontend Development with React & TypeScript
+- Tailwind CSS and component-driven UI
+- REST API consumption and async programming
+- Clean, scalable, and maintainable code
+- Git, GitHub, and professional workflow practices
 
 ---
-  
-## Tecnologias e Ferramentas
 
-### **Frontend**
+## 🛠️ Tech Stack
 
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
----
-
-### **Backend, Dados **
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
-
----
-
-### **Ambiente & Versionamento**
-
+### Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
+
+### Data & Backend (previous background)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
-## Meus Projetos
+## 💼 Projects
 
-Aqui no meu perfil você encontra projetos desenvolvidos, agora com foco em HTML+CSS+JavaScript:
-
-- Projeto To Do List - React (com todas as funcionalidades de um CRUD);
-- Projeto CRUD Tarefas (com consumo de API);
-- Projeto Busca CEP (com consumo de API);
-- Validação de formulários (aplicando conceitos de POO, eventos e validações customizadas);
-- Projeto Relógio Digital(HTML+CSS+JavaScript);
-- Projeto Final (Curso em Vídeo - HTML+CSS);
-
-Dê uma olhada nos meus repositórios para saber mais sobre cada um deles!
+### [Portfolio — gustavo-savi.vercel.app](https://gustavosavi.vercel.app)
+Personal portfolio landing page built from a Figma prototype.
+`React` `TypeScript` `Tailwind CSS v4` `Framer Motion` `Vite`
+- Fully responsive layout (mobile-first)
+- Dark mode support
+- Custom Typewriter component with IntersectionObserver
+- Animated terminal hero section
+- Contact form with React Hook Form validation
 
 ---
 
-## Como me encontrar
-
-- ✉️ E-mail: [gutosavi@hotmail.com](mailto:gutosavi@hotmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-savi)  
-- 📂 [GitHub](https://github.com/gutosavi)  
-- 🌐 [Facebook](https://www.facebook.com/gustavo.savi.5)
+### [Movies App](https://github.com/gutosavi/react-movies-app)
+Movie discovery app consuming the TMDB API.
+`React` `TypeScript` `Vite` `React Router` `React Hook Form`
+- Search and browse movies
+- Dynamic routing with detail pages
+- TypeScript migration with full type coverage
 
 ---
 
+### [Task Manager CRUD](https://github.com/gutosavi/CRUD-Tarefas)
+Task management app with real API persistence.
+`JavaScript` `MockAPI` `Fetch API` `Async/Await`
+
+---
+
+### [To Do List](https://github.com/gutosavi/react-to-do-list)
+To-do list with full CRUD functionality built in React.
+`React` `JavaScript`
+
+---
+
+## 🎓 Certifications
+
+| Course | Platform | Status |
+|--------|----------|--------|
+| JavaScript & TypeScript Full Stack | Udemy | 🔄 In progress |
+| HTML5 & CSS3 | Curso em Vídeo | ✅ Complete — 120h |
+| JavaScript | Curso em Vídeo | ✅ Complete — 40h |
+| Data Analysis Bootcamp | TripleTen | ✅ Complete |
+| Data Analysis with Python | Data Science Academy | ✅ Complete |
+| SQL for Data Analysis | Data Science Academy | ✅ Complete |
+
+---
+
+## 📬 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-savi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gutosavi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-007FFF?style=flat&logo=vercel&logoColor=white)](https://gustavosavi.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gutosavi@hotmail.com)
+
+---
+
+⭐ If any project catches your eye, feel free to leave a star — it really helps!
 ## Fun Facts
 
 - Em constante evolução como desenvolvedor.
