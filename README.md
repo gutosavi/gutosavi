@@ -72,15 +72,7 @@ My professional background began in educational management, where I led teams an
 # 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=gutosavi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutosavi&layout=compact&theme=github_dark&hide_border=true"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gutosavi&theme=github-dark&hide_border=true" />
 </p>
 
 ## 🔥 GitHub Streak
